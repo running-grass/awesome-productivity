@@ -3,8 +3,8 @@
 
 ## 笔记类应用
 - [Notion](https://www.notion.so/) - 一款丰富的笔记,目前个人版免费
-- [Roam Edit](http://roamedit.com/) - 国内开发的笔记软件，内测中
-- [我来](https://www.wolai.com/) - 类似Notion和RR的软件，内测中，支持json文件导出  
+- [Roam Edit](http://roamedit.com/) - 类似RoamResearch的，国内开发的笔记软件，内测中，支持json文件导出 
+- [我来](https://www.wolai.com/) - 类似Notion和RR的软件，内测中 
 - [Coda](https://coda.io/) - An all-in-one doc  
 - [幕布](https://mubu.com/) - 极简大纲笔记，一键生成思维导图  
 - [Roam Research](https://www.roamresearch.com/) - A note-taking tool for networked thought  
