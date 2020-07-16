@@ -15,4 +15,4 @@
 
 
 ## 拓宽眼界
-- [Github Awesome Search](https://awesome-indexed.mathew-davies.co.uk/) 输入一个主题，可以相应的找到其它相关联的诸多主题
+- [Github Awesome Search](https://awesome-indexed.mathew-davies.co.uk/) - Great for discovery and finding alternatives. 输入一个主题，可以相应的找到其它相关联的诸多主题
