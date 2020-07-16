@@ -12,6 +12,9 @@
 - [Evernote](https://evernote.com/) - 老牌笔记软件，特点是便于收集素材，但是发展比较缓慢  
 - [有道云笔记](http://note.youdao.com/) - 国内还不错的软件  
 - [为知笔记](https://www.wiz.cn/) - 大脑是用来思考的，记录的事情交给我们  
+- [Crossnote](https://crossnote.app/) - 可离线使用，使用git进行同步的Markdown笔记  
+
+[//]  Markdown Preview Enhanced，Google Keep，Google Docs，Quip，Notion，GitBook，Notable，Evernote，以及 Bear。
 
 
 ## 拓宽眼界
