@@ -13,6 +13,7 @@
 - [有道云笔记](http://note.youdao.com/) - 国内还不错的软件  
 - [为知笔记](https://www.wiz.cn/) - 大脑是用来思考的，记录的事情交给我们  
 - [Crossnote](https://crossnote.app/) - 可离线使用，使用git进行同步的Markdown笔记  
+- [Obsidian](https://obsidian.md/) - A second brain, for you, forever  
 
 [^_^]:
 Markdown Preview Enhanced，Google Keep，Google Docs，Quip，Notion，GitBook，Notable，Evernote，以及 Bear。
